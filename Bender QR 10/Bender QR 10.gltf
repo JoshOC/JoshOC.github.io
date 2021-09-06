@@ -303,7 +303,7 @@
 			"color": [
 					1, 1, 1
 				],
-			"intensity": 2,
+			"intensity": 3,
 			"type": "point"
 		}
 ,
@@ -312,7 +312,7 @@
 			"color": [
 					1, 1, 1
 				],
-			"intensity": 2,
+			"intensity": 3,
 			"type": "point"
 		}
 ,
@@ -321,7 +321,7 @@
 			"color": [
 					1, 1, 1
 				],
-			"intensity": 1.5,
+			"intensity": 2,
 			"type": "point"
 		}
 ,
@@ -330,7 +330,7 @@
 			"color": [
 					1, 1, 1
 				],
-			"intensity": 1.5,
+			"intensity": 2,
 			"type": "point"
 		}
 
