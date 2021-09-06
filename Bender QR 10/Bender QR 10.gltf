@@ -301,7 +301,7 @@
 		{
 			"name": "Directional1[1]",
 			"color": [
-					0.5773503, 0.5773503, 0.5773503
+					1, 1, 1
 				],
 			"intensity": 1,
 			"type": "point"
@@ -310,7 +310,7 @@
 		{
 			"name": "Directional2[1]",
 			"color": [
-					0.5773503, 0.5773503, 0.5773503
+					1, 1, 1
 				],
 			"intensity": 1,
 			"type": "point"
@@ -319,7 +319,7 @@
 		{
 			"name": "Directional2 2[1]",
 			"color": [
-					0.5773503, 0.5773503, 0.5773503
+					1, 1, 1
 				],
 			"intensity": 1,
 			"type": "point"
@@ -328,7 +328,7 @@
 		{
 			"name": "Directional2 3[1]",
 			"color": [
-					0.5773503, 0.5773503, 0.5773503
+					1, 1, 1
 				],
 			"intensity": 1,
 			"type": "point"
