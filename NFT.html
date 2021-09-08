@@ -52,7 +52,7 @@
 
         
            <a-scene 
-            arjs='sourceType: webcam; debugUIEnabled: true; trackingMethod: best; sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960;'
+            arjs='sourceType: webcam; debugUIEnabled: true; trackingMethod: best; sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960; markersAreaEnabled: true;'
             embedded 
             renderer="logarithmicDepthBuffer: true;"
             vr-mode-ui="enabled: false"
@@ -70,7 +70,7 @@
         <!-- https://ar-js-org.github.io/AR.js-Docs/marker-based/ -->
       
                
-                <a-marker type="pattern" preset="custom" url="DM6.patt" smooth="true" smoothCount=5 markersAreaEnabled: true >
+                <a-marker type="pattern" preset="custom" url="DM6.patt" smooth="true" smoothCount=5  >
             <a-entity
                 id="dexter-model"
                 gltf-model="#dexter-asset"
