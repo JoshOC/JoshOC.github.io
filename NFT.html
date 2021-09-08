@@ -52,7 +52,7 @@
 
         
            <a-scene 
-            arjs='sourceType: webcam; debugUIEnabled: true; trackingMethod: best; sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960;'
+            arjs='sourceType: webcam; debugUIEnabled: false; trackingMethod: best; sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960;'
             embedded 
             renderer="logarithmicDepthBuffer: true;"
             vr-mode-ui="enabled: false"
@@ -86,8 +86,8 @@
         <!-- use this <a-entity camera> to support multiple-markers, otherwise use <a-marker-camera> instead of </a-marker> -->
         <a-entity camera></a-entity>
         </a-scene>
-  <!--  <div class="buttons">
+    <div class="buttons">
         <button class="click-me-button">Learn More</button>
-        </div> -->
+        </div> 
     </body>
 </html>
